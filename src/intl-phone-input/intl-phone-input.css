@@ -1,0 +1,60 @@
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
+
+@import '../vars.css';
+
+.intl-phone-input {
+    display: inline-block;
+
+    &__input {
+        &.input .input__addons_left + .input__control {
+            padding-left: 0;
+        }
+    }
+
+    &__select {
+        .flag-icon {
+            margin-top: -3px;
+            margin-left: 2px;
+            box-shadow: 0 0 2px 0 rgba(10, 30, 50, .25);
+        }
+
+        /* Override select button border */
+        &.select {
+            margin-bottom: -1px;
+
+            .select-button {
+                border-bottom-color: transparent;
+                box-shadow: none;
+
+                &_size_m {
+                    min-width: 56px;
+                }
+            }
+        }
+    }
+
+    &__select-option-flag {
+        display: inline-block;
+        width: 30px;
+        text-align: center;
+    }
+
+    &__select-option-code {
+        opacity: var(--opacity-minor);
+        margin-left: 6px;
+        font-size: 16px;
+    }
+}
+
+.select__popup {
+    .flag-icon {
+        display: inline-block;
+        vertical-align: baseline;
+        position: relative;
+        top: 1px;
+        margin-right: 12px;
+        box-shadow: 0 0 2px 0 rgba(10, 30, 50, .25);
+    }
+}

@@ -6,6 +6,7 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
+*.flag-icon-tmp/
 .gemini-react-tmp/
 .gemini.tmp.*/
 demo/styleguide*

@@ -2,12 +2,10 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-const createTasks = require('library-utils/gulp-tasks');
+import './flag-icon.css';
+import './flag-icon_size_s.css';
+import './flag-icon_size_m.css';
+import './flag-icon_size_l.css';
+import './flag-icon_size_xl.css';
 
-createTasks('arui-feather', {
-    componentsGlob: [
-        'src/*/*.jsx',
-        '!src/*/*-test.jsx',
-        '!src/*/*-benchmark.jsx'
-    ]
-});
+export default from './flag-icon';

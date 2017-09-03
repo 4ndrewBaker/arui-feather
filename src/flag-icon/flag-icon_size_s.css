@@ -1,0 +1,2600 @@
+
+.flag-icon_size_s {
+    background-image: url('./images/flag-icon_size_s@1x.png');
+    background-size: 300px 270px;
+
+    @media
+        only screen and (min-device-pixel-ratio: 2),
+        only screen and (min-resolution: 192dpi),
+        only screen and (min-resolution: 2dppx) {
+        background-image: url('./images/flag-icon_size_s@2x.png');
+        background-size: 600px 540px;
+    }
+
+    &.flag-icon_country_ac {
+        width: 20px;
+        height: 15px;
+        background-position: -20px 0px;
+    }
+    &.flag-icon_country_ad {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -180px;
+    }
+    &.flag-icon_country_ae {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -15px;
+    }
+    &.flag-icon_country_af {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -15px;
+    }
+    &.flag-icon_country_ag {
+        width: 20px;
+        height: 15px;
+        background-position: -40px 0px;
+    }
+    &.flag-icon_country_ai {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -15px;
+    }
+    &.flag-icon_country_al {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -30px;
+    }
+    &.flag-icon_country_am {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -30px;
+    }
+    &.flag-icon_country_ao {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -30px;
+    }
+    &.flag-icon_country_aq {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -45px;
+    }
+    &.flag-icon_country_ar {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -45px;
+    }
+    &.flag-icon_country_as {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -45px;
+    }
+    &.flag-icon_country_at {
+        width: 20px;
+        height: 15px;
+        background-position: -60px 0px;
+    }
+    &.flag-icon_country_au {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -15px;
+    }
+    &.flag-icon_country_aw {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -30px;
+    }
+    &.flag-icon_country_ax {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -45px;
+    }
+    &.flag-icon_country_az {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -60px;
+    }
+    &.flag-icon_country_ba {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -60px;
+    }
+    &.flag-icon_country_bb {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -60px;
+    }
+    &.flag-icon_country_bd {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -60px;
+    }
+    &.flag-icon_country_be {
+        width: 20px;
+        height: 15px;
+        background-position: -80px 0px;
+    }
+    &.flag-icon_country_bf {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -15px;
+    }
+    &.flag-icon_country_bg {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -30px;
+    }
+    &.flag-icon_country_bh {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -45px;
+    }
+    &.flag-icon_country_bi {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -60px;
+    }
+    &.flag-icon_country_bj {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -75px;
+    }
+    &.flag-icon_country_bl {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -75px;
+    }
+    &.flag-icon_country_bm {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -75px;
+    }
+    &.flag-icon_country_bn {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -75px;
+    }
+    &.flag-icon_country_bo {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -75px;
+    }
+    &.flag-icon_country_bq {
+        width: 20px;
+        height: 15px;
+        background-position: -100px 0px;
+    }
+    &.flag-icon_country_br {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -15px;
+    }
+    &.flag-icon_country_bs {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -30px;
+    }
+    &.flag-icon_country_bt {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -45px;
+    }
+    &.flag-icon_country_bv {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -60px;
+    }
+    &.flag-icon_country_bw {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -75px;
+    }
+    &.flag-icon_country_by {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -90px;
+    }
+    &.flag-icon_country_bz {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -90px;
+    }
+    &.flag-icon_country_ca {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -90px;
+    }
+    &.flag-icon_country_cc {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -90px;
+    }
+    &.flag-icon_country_cd {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -90px;
+    }
+    &.flag-icon_country_cf {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -90px;
+    }
+    &.flag-icon_country_cg {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -105px;
+    }
+    &.flag-icon_country_ch {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -105px;
+    }
+    &.flag-icon_country_ci {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -105px;
+    }
+    &.flag-icon_country_ck {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -105px;
+    }
+    &.flag-icon_country_cl {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -105px;
+    }
+    &.flag-icon_country_cm {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -105px;
+    }
+    &.flag-icon_country_cn {
+        width: 20px;
+        height: 15px;
+        background-position: -120px 0px;
+    }
+    &.flag-icon_country_co {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -15px;
+    }
+    &.flag-icon_country_cp {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -30px;
+    }
+    &.flag-icon_country_cr {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -45px;
+    }
+    &.flag-icon_country_cu {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -60px;
+    }
+    &.flag-icon_country_cv {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -75px;
+    }
+    &.flag-icon_country_cw {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -90px;
+    }
+    &.flag-icon_country_cx {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -105px;
+    }
+    &.flag-icon_country_cy {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -120px;
+    }
+    &.flag-icon_country_cz {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -120px;
+    }
+    &.flag-icon_country_de {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -120px;
+    }
+    &.flag-icon_country_dg {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -120px;
+    }
+    &.flag-icon_country_dj {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -120px;
+    }
+    &.flag-icon_country_dk {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -120px;
+    }
+    &.flag-icon_country_dm {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -120px;
+    }
+    &.flag-icon_country_do {
+        width: 20px;
+        height: 15px;
+        background-position: -140px 0px;
+    }
+    &.flag-icon_country_dz {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -15px;
+    }
+    &.flag-icon_country_ea {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -30px;
+    }
+    &.flag-icon_country_ec {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -45px;
+    }
+    &.flag-icon_country_ee {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -60px;
+    }
+    &.flag-icon_country_eg {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -75px;
+    }
+    &.flag-icon_country_eh {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -90px;
+    }
+    &.flag-icon_country_er {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -105px;
+    }
+    &.flag-icon_country_es {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -120px;
+    }
+    &.flag-icon_country_et {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -135px;
+    }
+    &.flag-icon_country_eu {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -135px;
+    }
+    &.flag-icon_country_fi {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -135px;
+    }
+    &.flag-icon_country_fj {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -135px;
+    }
+    &.flag-icon_country_fk {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -135px;
+    }
+    &.flag-icon_country_fm {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -135px;
+    }
+    &.flag-icon_country_fo {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -135px;
+    }
+    &.flag-icon_country_fr {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -135px;
+    }
+    &.flag-icon_country_ga {
+        width: 20px;
+        height: 15px;
+        background-position: -160px 0px;
+    }
+    &.flag-icon_country_gb {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -15px;
+    }
+    &.flag-icon_country_gd {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -30px;
+    }
+    &.flag-icon_country_ge {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -45px;
+    }
+    &.flag-icon_country_gf {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -60px;
+    }
+    &.flag-icon_country_gg {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -75px;
+    }
+    &.flag-icon_country_gh {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -90px;
+    }
+    &.flag-icon_country_gi {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -105px;
+    }
+    &.flag-icon_country_gl {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -120px;
+    }
+    &.flag-icon_country_gm {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -135px;
+    }
+    &.flag-icon_country_gn {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -150px;
+    }
+    &.flag-icon_country_gp {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -150px;
+    }
+    &.flag-icon_country_gq {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -150px;
+    }
+    &.flag-icon_country_gr {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -150px;
+    }
+    &.flag-icon_country_gs {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -150px;
+    }
+    &.flag-icon_country_gt {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -150px;
+    }
+    &.flag-icon_country_gu {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -150px;
+    }
+    &.flag-icon_country_gw {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -150px;
+    }
+    &.flag-icon_country_gy {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -150px;
+    }
+    &.flag-icon_country_hk {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -165px;
+    }
+    &.flag-icon_country_hm {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -165px;
+    }
+    &.flag-icon_country_hn {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -165px;
+    }
+    &.flag-icon_country_hr {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -165px;
+    }
+    &.flag-icon_country_ht {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -165px;
+    }
+    &.flag-icon_country_hu {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -165px;
+    }
+    &.flag-icon_country_ic {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -165px;
+    }
+    &.flag-icon_country_id {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -165px;
+    }
+    &.flag-icon_country_ie {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -165px;
+    }
+    &.flag-icon_country_il {
+        width: 20px;
+        height: 15px;
+        background-position: -180px 0px;
+    }
+    &.flag-icon_country_im {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -15px;
+    }
+    &.flag-icon_country_in {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -30px;
+    }
+    &.flag-icon_country_io {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -45px;
+    }
+    &.flag-icon_country_iq {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -60px;
+    }
+    &.flag-icon_country_ir {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -75px;
+    }
+    &.flag-icon_country_is {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -90px;
+    }
+    &.flag-icon_country_it {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -105px;
+    }
+    &.flag-icon_country_je {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -120px;
+    }
+    &.flag-icon_country_jm {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -135px;
+    }
+    &.flag-icon_country_jo {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -150px;
+    }
+    &.flag-icon_country_jp {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -165px;
+    }
+    &.flag-icon_country_ke {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -180px;
+    }
+    &.flag-icon_country_kg {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -180px;
+    }
+    &.flag-icon_country_kh {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -180px;
+    }
+    &.flag-icon_country_ki {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -180px;
+    }
+    &.flag-icon_country_km {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -180px;
+    }
+    &.flag-icon_country_kn {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -180px;
+    }
+    &.flag-icon_country_kp {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -180px;
+    }
+    &.flag-icon_country_kr {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -180px;
+    }
+    &.flag-icon_country_kw {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -180px;
+    }
+    &.flag-icon_country_ky {
+        width: 20px;
+        height: 15px;
+        background-position: 0px 0px;
+    }
+    &.flag-icon_country_kz {
+        width: 20px;
+        height: 15px;
+        background-position: -200px 0px;
+    }
+    &.flag-icon_country_la {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -15px;
+    }
+    &.flag-icon_country_lb {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -30px;
+    }
+    &.flag-icon_country_lc {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -45px;
+    }
+    &.flag-icon_country_li {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -60px;
+    }
+    &.flag-icon_country_lk {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -75px;
+    }
+    &.flag-icon_country_lr {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -90px;
+    }
+    &.flag-icon_country_ls {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -105px;
+    }
+    &.flag-icon_country_lt {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -120px;
+    }
+    &.flag-icon_country_lu {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -135px;
+    }
+    &.flag-icon_country_lv {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -150px;
+    }
+    &.flag-icon_country_ly {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -165px;
+    }
+    &.flag-icon_country_ma {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -180px;
+    }
+    &.flag-icon_country_mc {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -195px;
+    }
+    &.flag-icon_country_md {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -195px;
+    }
+    &.flag-icon_country_me {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -195px;
+    }
+    &.flag-icon_country_mf {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -195px;
+    }
+    &.flag-icon_country_mg {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -195px;
+    }
+    &.flag-icon_country_mh {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -195px;
+    }
+    &.flag-icon_country_mk {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -195px;
+    }
+    &.flag-icon_country_ml {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -195px;
+    }
+    &.flag-icon_country_mm {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -195px;
+    }
+    &.flag-icon_country_mn {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -195px;
+    }
+    &.flag-icon_country_mo {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -195px;
+    }
+    &.flag-icon_country_mp {
+        width: 20px;
+        height: 15px;
+        background-position: -220px 0px;
+    }
+    &.flag-icon_country_mq {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -15px;
+    }
+    &.flag-icon_country_mr {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -30px;
+    }
+    &.flag-icon_country_ms {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -45px;
+    }
+    &.flag-icon_country_mt {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -60px;
+    }
+    &.flag-icon_country_mu {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -75px;
+    }
+    &.flag-icon_country_mv {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -90px;
+    }
+    &.flag-icon_country_mw {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -105px;
+    }
+    &.flag-icon_country_mx {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -120px;
+    }
+    &.flag-icon_country_my {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -135px;
+    }
+    &.flag-icon_country_mz {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -150px;
+    }
+    &.flag-icon_country_na {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -165px;
+    }
+    &.flag-icon_country_nc {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -180px;
+    }
+    &.flag-icon_country_ne {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -195px;
+    }
+    &.flag-icon_country_nf {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -210px;
+    }
+    &.flag-icon_country_ng {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -210px;
+    }
+    &.flag-icon_country_ni {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -210px;
+    }
+    &.flag-icon_country_nl {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -210px;
+    }
+    &.flag-icon_country_no {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -210px;
+    }
+    &.flag-icon_country_np {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -210px;
+    }
+    &.flag-icon_country_nr {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -210px;
+    }
+    &.flag-icon_country_nu {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -210px;
+    }
+    &.flag-icon_country_nz {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -210px;
+    }
+    &.flag-icon_country_om {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -210px;
+    }
+    &.flag-icon_country_pa {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -210px;
+    }
+    &.flag-icon_country_pe {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -210px;
+    }
+    &.flag-icon_country_pf {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -225px;
+    }
+    &.flag-icon_country_pg {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -225px;
+    }
+    &.flag-icon_country_ph {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -225px;
+    }
+    &.flag-icon_country_pk {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -225px;
+    }
+    &.flag-icon_country_pl {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -225px;
+    }
+    &.flag-icon_country_pm {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -225px;
+    }
+    &.flag-icon_country_pn {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -225px;
+    }
+    &.flag-icon_country_pr {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -225px;
+    }
+    &.flag-icon_country_ps {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -225px;
+    }
+    &.flag-icon_country_pt {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -225px;
+    }
+    &.flag-icon_country_pw {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -225px;
+    }
+    &.flag-icon_country_py {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -225px;
+    }
+    &.flag-icon_country_qa {
+        width: 20px;
+        height: 15px;
+        background-position: -240px 0px;
+    }
+    &.flag-icon_country_re {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -15px;
+    }
+    &.flag-icon_country_ro {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -30px;
+    }
+    &.flag-icon_country_rs {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -45px;
+    }
+    &.flag-icon_country_ru {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -60px;
+    }
+    &.flag-icon_country_rw {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -75px;
+    }
+    &.flag-icon_country_sa {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -90px;
+    }
+    &.flag-icon_country_sb {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -105px;
+    }
+    &.flag-icon_country_sc {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -120px;
+    }
+    &.flag-icon_country_sd {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -135px;
+    }
+    &.flag-icon_country_se {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -150px;
+    }
+    &.flag-icon_country_sg {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -165px;
+    }
+    &.flag-icon_country_sh {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -180px;
+    }
+    &.flag-icon_country_si {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -195px;
+    }
+    &.flag-icon_country_sj {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -210px;
+    }
+    &.flag-icon_country_sk {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -225px;
+    }
+    &.flag-icon_country_sl {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -240px;
+    }
+    &.flag-icon_country_sm {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -240px;
+    }
+    &.flag-icon_country_sn {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -240px;
+    }
+    &.flag-icon_country_so {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -240px;
+    }
+    &.flag-icon_country_sr {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -240px;
+    }
+    &.flag-icon_country_ss {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -240px;
+    }
+    &.flag-icon_country_st {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -240px;
+    }
+    &.flag-icon_country_sv {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -240px;
+    }
+    &.flag-icon_country_sx {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -240px;
+    }
+    &.flag-icon_country_sy {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -240px;
+    }
+    &.flag-icon_country_sz {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -240px;
+    }
+    &.flag-icon_country_ta {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -240px;
+    }
+    &.flag-icon_country_tc {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -240px;
+    }
+    &.flag-icon_country_td {
+        width: 20px;
+        height: 15px;
+        background-position: -260px 0px;
+    }
+    &.flag-icon_country_tf {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -15px;
+    }
+    &.flag-icon_country_tg {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -30px;
+    }
+    &.flag-icon_country_th {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -45px;
+    }
+    &.flag-icon_country_tj {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -60px;
+    }
+    &.flag-icon_country_tk {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -75px;
+    }
+    &.flag-icon_country_tl {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -90px;
+    }
+    &.flag-icon_country_tm {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -105px;
+    }
+    &.flag-icon_country_tn {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -120px;
+    }
+    &.flag-icon_country_to {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -135px;
+    }
+    &.flag-icon_country_tr {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -150px;
+    }
+    &.flag-icon_country_tt {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -165px;
+    }
+    &.flag-icon_country_tv {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -180px;
+    }
+    &.flag-icon_country_tw {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -195px;
+    }
+    &.flag-icon_country_tz {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -210px;
+    }
+    &.flag-icon_country_ua {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -225px;
+    }
+    &.flag-icon_country_ug {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -240px;
+    }
+    &.flag-icon_country_um {
+        width: 20px;
+        height: 15px;
+        background-position: 0px -255px;
+    }
+    &.flag-icon_country_un {
+        width: 20px;
+        height: 15px;
+        background-position: -20px -255px;
+    }
+    &.flag-icon_country_us {
+        width: 20px;
+        height: 15px;
+        background-position: -40px -255px;
+    }
+    &.flag-icon_country_uy {
+        width: 20px;
+        height: 15px;
+        background-position: -60px -255px;
+    }
+    &.flag-icon_country_uz {
+        width: 20px;
+        height: 15px;
+        background-position: -80px -255px;
+    }
+    &.flag-icon_country_va {
+        width: 20px;
+        height: 15px;
+        background-position: -100px -255px;
+    }
+    &.flag-icon_country_vc {
+        width: 20px;
+        height: 15px;
+        background-position: -120px -255px;
+    }
+    &.flag-icon_country_ve {
+        width: 20px;
+        height: 15px;
+        background-position: -140px -255px;
+    }
+    &.flag-icon_country_vg {
+        width: 20px;
+        height: 15px;
+        background-position: -160px -255px;
+    }
+    &.flag-icon_country_vi {
+        width: 20px;
+        height: 15px;
+        background-position: -180px -255px;
+    }
+    &.flag-icon_country_vn {
+        width: 20px;
+        height: 15px;
+        background-position: -200px -255px;
+    }
+    &.flag-icon_country_vu {
+        width: 20px;
+        height: 15px;
+        background-position: -220px -255px;
+    }
+    &.flag-icon_country_wf {
+        width: 20px;
+        height: 15px;
+        background-position: -240px -255px;
+    }
+    &.flag-icon_country_ws {
+        width: 20px;
+        height: 15px;
+        background-position: -260px -255px;
+    }
+    &.flag-icon_country_xk {
+        width: 20px;
+        height: 15px;
+        background-position: -280px 0px;
+    }
+    &.flag-icon_country_ye {
+        width: 20px;
+        height: 15px;
+        background-position: -280px -15px;
+    }
+    &.flag-icon_country_yt {
+        width: 20px;
+        height: 15px;
+        background-position: -280px -30px;
+    }
+    &.flag-icon_country_za {
+        width: 20px;
+        height: 15px;
+        background-position: -280px -45px;
+    }
+    &.flag-icon_country_zm {
+        width: 20px;
+        height: 15px;
+        background-position: -280px -60px;
+    }
+    &.flag-icon_country_zw {
+        width: 20px;
+        height: 15px;
+        background-position: -280px -75px;
+    }
+
+    @media
+        only screen and (min-device-pixel-ratio: 2),
+        only screen and (min-resolution: 192dpi),
+        only screen and (min-resolution: 2dppx) {
+        &.flag-icon_country_ac {
+            width: 40px;
+            height: 30px;
+            background-position: -40px 0px;
+        }
+        &.flag-icon_country_ad {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -360px;
+        }
+        &.flag-icon_country_ae {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -30px;
+        }
+        &.flag-icon_country_af {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -30px;
+        }
+        &.flag-icon_country_ag {
+            width: 40px;
+            height: 30px;
+            background-position: -80px 0px;
+        }
+        &.flag-icon_country_ai {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -30px;
+        }
+        &.flag-icon_country_al {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -60px;
+        }
+        &.flag-icon_country_am {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -60px;
+        }
+        &.flag-icon_country_ao {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -60px;
+        }
+        &.flag-icon_country_aq {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -90px;
+        }
+        &.flag-icon_country_ar {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -90px;
+        }
+        &.flag-icon_country_as {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -90px;
+        }
+        &.flag-icon_country_at {
+            width: 40px;
+            height: 30px;
+            background-position: -120px 0px;
+        }
+        &.flag-icon_country_au {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -30px;
+        }
+        &.flag-icon_country_aw {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -60px;
+        }
+        &.flag-icon_country_ax {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -90px;
+        }
+        &.flag-icon_country_az {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -120px;
+        }
+        &.flag-icon_country_ba {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -120px;
+        }
+        &.flag-icon_country_bb {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -120px;
+        }
+        &.flag-icon_country_bd {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -120px;
+        }
+        &.flag-icon_country_be {
+            width: 40px;
+            height: 30px;
+            background-position: -160px 0px;
+        }
+        &.flag-icon_country_bf {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -30px;
+        }
+        &.flag-icon_country_bg {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -60px;
+        }
+        &.flag-icon_country_bh {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -90px;
+        }
+        &.flag-icon_country_bi {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -120px;
+        }
+        &.flag-icon_country_bj {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -150px;
+        }
+        &.flag-icon_country_bl {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -150px;
+        }
+        &.flag-icon_country_bm {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -150px;
+        }
+        &.flag-icon_country_bn {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -150px;
+        }
+        &.flag-icon_country_bo {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -150px;
+        }
+        &.flag-icon_country_bq {
+            width: 40px;
+            height: 30px;
+            background-position: -200px 0px;
+        }
+        &.flag-icon_country_br {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -30px;
+        }
+        &.flag-icon_country_bs {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -60px;
+        }
+        &.flag-icon_country_bt {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -90px;
+        }
+        &.flag-icon_country_bv {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -120px;
+        }
+        &.flag-icon_country_bw {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -150px;
+        }
+        &.flag-icon_country_by {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -180px;
+        }
+        &.flag-icon_country_bz {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -180px;
+        }
+        &.flag-icon_country_ca {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -180px;
+        }
+        &.flag-icon_country_cc {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -180px;
+        }
+        &.flag-icon_country_cd {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -180px;
+        }
+        &.flag-icon_country_cf {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -180px;
+        }
+        &.flag-icon_country_cg {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -210px;
+        }
+        &.flag-icon_country_ch {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -210px;
+        }
+        &.flag-icon_country_ci {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -210px;
+        }
+        &.flag-icon_country_ck {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -210px;
+        }
+        &.flag-icon_country_cl {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -210px;
+        }
+        &.flag-icon_country_cm {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -210px;
+        }
+        &.flag-icon_country_cn {
+            width: 40px;
+            height: 30px;
+            background-position: -240px 0px;
+        }
+        &.flag-icon_country_co {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -30px;
+        }
+        &.flag-icon_country_cp {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -60px;
+        }
+        &.flag-icon_country_cr {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -90px;
+        }
+        &.flag-icon_country_cu {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -120px;
+        }
+        &.flag-icon_country_cv {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -150px;
+        }
+        &.flag-icon_country_cw {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -180px;
+        }
+        &.flag-icon_country_cx {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -210px;
+        }
+        &.flag-icon_country_cy {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -240px;
+        }
+        &.flag-icon_country_cz {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -240px;
+        }
+        &.flag-icon_country_de {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -240px;
+        }
+        &.flag-icon_country_dg {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -240px;
+        }
+        &.flag-icon_country_dj {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -240px;
+        }
+        &.flag-icon_country_dk {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -240px;
+        }
+        &.flag-icon_country_dm {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -240px;
+        }
+        &.flag-icon_country_do {
+            width: 40px;
+            height: 30px;
+            background-position: -280px 0px;
+        }
+        &.flag-icon_country_dz {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -30px;
+        }
+        &.flag-icon_country_ea {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -60px;
+        }
+        &.flag-icon_country_ec {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -90px;
+        }
+        &.flag-icon_country_ee {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -120px;
+        }
+        &.flag-icon_country_eg {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -150px;
+        }
+        &.flag-icon_country_eh {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -180px;
+        }
+        &.flag-icon_country_er {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -210px;
+        }
+        &.flag-icon_country_es {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -240px;
+        }
+        &.flag-icon_country_et {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -270px;
+        }
+        &.flag-icon_country_eu {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -270px;
+        }
+        &.flag-icon_country_fi {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -270px;
+        }
+        &.flag-icon_country_fj {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -270px;
+        }
+        &.flag-icon_country_fk {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -270px;
+        }
+        &.flag-icon_country_fm {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -270px;
+        }
+        &.flag-icon_country_fo {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -270px;
+        }
+        &.flag-icon_country_fr {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -270px;
+        }
+        &.flag-icon_country_ga {
+            width: 40px;
+            height: 30px;
+            background-position: -320px 0px;
+        }
+        &.flag-icon_country_gb {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -30px;
+        }
+        &.flag-icon_country_gd {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -60px;
+        }
+        &.flag-icon_country_ge {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -90px;
+        }
+        &.flag-icon_country_gf {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -120px;
+        }
+        &.flag-icon_country_gg {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -150px;
+        }
+        &.flag-icon_country_gh {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -180px;
+        }
+        &.flag-icon_country_gi {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -210px;
+        }
+        &.flag-icon_country_gl {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -240px;
+        }
+        &.flag-icon_country_gm {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -270px;
+        }
+        &.flag-icon_country_gn {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -300px;
+        }
+        &.flag-icon_country_gp {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -300px;
+        }
+        &.flag-icon_country_gq {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -300px;
+        }
+        &.flag-icon_country_gr {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -300px;
+        }
+        &.flag-icon_country_gs {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -300px;
+        }
+        &.flag-icon_country_gt {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -300px;
+        }
+        &.flag-icon_country_gu {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -300px;
+        }
+        &.flag-icon_country_gw {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -300px;
+        }
+        &.flag-icon_country_gy {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -300px;
+        }
+        &.flag-icon_country_hk {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -330px;
+        }
+        &.flag-icon_country_hm {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -330px;
+        }
+        &.flag-icon_country_hn {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -330px;
+        }
+        &.flag-icon_country_hr {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -330px;
+        }
+        &.flag-icon_country_ht {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -330px;
+        }
+        &.flag-icon_country_hu {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -330px;
+        }
+        &.flag-icon_country_ic {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -330px;
+        }
+        &.flag-icon_country_id {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -330px;
+        }
+        &.flag-icon_country_ie {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -330px;
+        }
+        &.flag-icon_country_il {
+            width: 40px;
+            height: 30px;
+            background-position: -360px 0px;
+        }
+        &.flag-icon_country_im {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -30px;
+        }
+        &.flag-icon_country_in {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -60px;
+        }
+        &.flag-icon_country_io {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -90px;
+        }
+        &.flag-icon_country_iq {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -120px;
+        }
+        &.flag-icon_country_ir {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -150px;
+        }
+        &.flag-icon_country_is {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -180px;
+        }
+        &.flag-icon_country_it {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -210px;
+        }
+        &.flag-icon_country_je {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -240px;
+        }
+        &.flag-icon_country_jm {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -270px;
+        }
+        &.flag-icon_country_jo {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -300px;
+        }
+        &.flag-icon_country_jp {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -330px;
+        }
+        &.flag-icon_country_ke {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -360px;
+        }
+        &.flag-icon_country_kg {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -360px;
+        }
+        &.flag-icon_country_kh {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -360px;
+        }
+        &.flag-icon_country_ki {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -360px;
+        }
+        &.flag-icon_country_km {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -360px;
+        }
+        &.flag-icon_country_kn {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -360px;
+        }
+        &.flag-icon_country_kp {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -360px;
+        }
+        &.flag-icon_country_kr {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -360px;
+        }
+        &.flag-icon_country_kw {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -360px;
+        }
+        &.flag-icon_country_ky {
+            width: 40px;
+            height: 30px;
+            background-position: 0px 0px;
+        }
+        &.flag-icon_country_kz {
+            width: 40px;
+            height: 30px;
+            background-position: -400px 0px;
+        }
+        &.flag-icon_country_la {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -30px;
+        }
+        &.flag-icon_country_lb {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -60px;
+        }
+        &.flag-icon_country_lc {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -90px;
+        }
+        &.flag-icon_country_li {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -120px;
+        }
+        &.flag-icon_country_lk {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -150px;
+        }
+        &.flag-icon_country_lr {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -180px;
+        }
+        &.flag-icon_country_ls {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -210px;
+        }
+        &.flag-icon_country_lt {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -240px;
+        }
+        &.flag-icon_country_lu {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -270px;
+        }
+        &.flag-icon_country_lv {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -300px;
+        }
+        &.flag-icon_country_ly {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -330px;
+        }
+        &.flag-icon_country_ma {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -360px;
+        }
+        &.flag-icon_country_mc {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -390px;
+        }
+        &.flag-icon_country_md {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -390px;
+        }
+        &.flag-icon_country_me {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -390px;
+        }
+        &.flag-icon_country_mf {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -390px;
+        }
+        &.flag-icon_country_mg {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -390px;
+        }
+        &.flag-icon_country_mh {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -390px;
+        }
+        &.flag-icon_country_mk {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -390px;
+        }
+        &.flag-icon_country_ml {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -390px;
+        }
+        &.flag-icon_country_mm {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -390px;
+        }
+        &.flag-icon_country_mn {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -390px;
+        }
+        &.flag-icon_country_mo {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -390px;
+        }
+        &.flag-icon_country_mp {
+            width: 40px;
+            height: 30px;
+            background-position: -440px 0px;
+        }
+        &.flag-icon_country_mq {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -30px;
+        }
+        &.flag-icon_country_mr {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -60px;
+        }
+        &.flag-icon_country_ms {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -90px;
+        }
+        &.flag-icon_country_mt {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -120px;
+        }
+        &.flag-icon_country_mu {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -150px;
+        }
+        &.flag-icon_country_mv {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -180px;
+        }
+        &.flag-icon_country_mw {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -210px;
+        }
+        &.flag-icon_country_mx {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -240px;
+        }
+        &.flag-icon_country_my {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -270px;
+        }
+        &.flag-icon_country_mz {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -300px;
+        }
+        &.flag-icon_country_na {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -330px;
+        }
+        &.flag-icon_country_nc {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -360px;
+        }
+        &.flag-icon_country_ne {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -390px;
+        }
+        &.flag-icon_country_nf {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -420px;
+        }
+        &.flag-icon_country_ng {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -420px;
+        }
+        &.flag-icon_country_ni {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -420px;
+        }
+        &.flag-icon_country_nl {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -420px;
+        }
+        &.flag-icon_country_no {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -420px;
+        }
+        &.flag-icon_country_np {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -420px;
+        }
+        &.flag-icon_country_nr {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -420px;
+        }
+        &.flag-icon_country_nu {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -420px;
+        }
+        &.flag-icon_country_nz {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -420px;
+        }
+        &.flag-icon_country_om {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -420px;
+        }
+        &.flag-icon_country_pa {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -420px;
+        }
+        &.flag-icon_country_pe {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -420px;
+        }
+        &.flag-icon_country_pf {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -450px;
+        }
+        &.flag-icon_country_pg {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -450px;
+        }
+        &.flag-icon_country_ph {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -450px;
+        }
+        &.flag-icon_country_pk {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -450px;
+        }
+        &.flag-icon_country_pl {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -450px;
+        }
+        &.flag-icon_country_pm {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -450px;
+        }
+        &.flag-icon_country_pn {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -450px;
+        }
+        &.flag-icon_country_pr {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -450px;
+        }
+        &.flag-icon_country_ps {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -450px;
+        }
+        &.flag-icon_country_pt {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -450px;
+        }
+        &.flag-icon_country_pw {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -450px;
+        }
+        &.flag-icon_country_py {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -450px;
+        }
+        &.flag-icon_country_qa {
+            width: 40px;
+            height: 30px;
+            background-position: -480px 0px;
+        }
+        &.flag-icon_country_re {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -30px;
+        }
+        &.flag-icon_country_ro {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -60px;
+        }
+        &.flag-icon_country_rs {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -90px;
+        }
+        &.flag-icon_country_ru {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -120px;
+        }
+        &.flag-icon_country_rw {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -150px;
+        }
+        &.flag-icon_country_sa {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -180px;
+        }
+        &.flag-icon_country_sb {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -210px;
+        }
+        &.flag-icon_country_sc {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -240px;
+        }
+        &.flag-icon_country_sd {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -270px;
+        }
+        &.flag-icon_country_se {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -300px;
+        }
+        &.flag-icon_country_sg {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -330px;
+        }
+        &.flag-icon_country_sh {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -360px;
+        }
+        &.flag-icon_country_si {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -390px;
+        }
+        &.flag-icon_country_sj {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -420px;
+        }
+        &.flag-icon_country_sk {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -450px;
+        }
+        &.flag-icon_country_sl {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -480px;
+        }
+        &.flag-icon_country_sm {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -480px;
+        }
+        &.flag-icon_country_sn {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -480px;
+        }
+        &.flag-icon_country_so {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -480px;
+        }
+        &.flag-icon_country_sr {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -480px;
+        }
+        &.flag-icon_country_ss {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -480px;
+        }
+        &.flag-icon_country_st {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -480px;
+        }
+        &.flag-icon_country_sv {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -480px;
+        }
+        &.flag-icon_country_sx {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -480px;
+        }
+        &.flag-icon_country_sy {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -480px;
+        }
+        &.flag-icon_country_sz {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -480px;
+        }
+        &.flag-icon_country_ta {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -480px;
+        }
+        &.flag-icon_country_tc {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -480px;
+        }
+        &.flag-icon_country_td {
+            width: 40px;
+            height: 30px;
+            background-position: -520px 0px;
+        }
+        &.flag-icon_country_tf {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -30px;
+        }
+        &.flag-icon_country_tg {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -60px;
+        }
+        &.flag-icon_country_th {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -90px;
+        }
+        &.flag-icon_country_tj {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -120px;
+        }
+        &.flag-icon_country_tk {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -150px;
+        }
+        &.flag-icon_country_tl {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -180px;
+        }
+        &.flag-icon_country_tm {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -210px;
+        }
+        &.flag-icon_country_tn {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -240px;
+        }
+        &.flag-icon_country_to {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -270px;
+        }
+        &.flag-icon_country_tr {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -300px;
+        }
+        &.flag-icon_country_tt {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -330px;
+        }
+        &.flag-icon_country_tv {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -360px;
+        }
+        &.flag-icon_country_tw {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -390px;
+        }
+        &.flag-icon_country_tz {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -420px;
+        }
+        &.flag-icon_country_ua {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -450px;
+        }
+        &.flag-icon_country_ug {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -480px;
+        }
+        &.flag-icon_country_um {
+            width: 40px;
+            height: 30px;
+            background-position: 0px -510px;
+        }
+        &.flag-icon_country_un {
+            width: 40px;
+            height: 30px;
+            background-position: -40px -510px;
+        }
+        &.flag-icon_country_us {
+            width: 40px;
+            height: 30px;
+            background-position: -80px -510px;
+        }
+        &.flag-icon_country_uy {
+            width: 40px;
+            height: 30px;
+            background-position: -120px -510px;
+        }
+        &.flag-icon_country_uz {
+            width: 40px;
+            height: 30px;
+            background-position: -160px -510px;
+        }
+        &.flag-icon_country_va {
+            width: 40px;
+            height: 30px;
+            background-position: -200px -510px;
+        }
+        &.flag-icon_country_vc {
+            width: 40px;
+            height: 30px;
+            background-position: -240px -510px;
+        }
+        &.flag-icon_country_ve {
+            width: 40px;
+            height: 30px;
+            background-position: -280px -510px;
+        }
+        &.flag-icon_country_vg {
+            width: 40px;
+            height: 30px;
+            background-position: -320px -510px;
+        }
+        &.flag-icon_country_vi {
+            width: 40px;
+            height: 30px;
+            background-position: -360px -510px;
+        }
+        &.flag-icon_country_vn {
+            width: 40px;
+            height: 30px;
+            background-position: -400px -510px;
+        }
+        &.flag-icon_country_vu {
+            width: 40px;
+            height: 30px;
+            background-position: -440px -510px;
+        }
+        &.flag-icon_country_wf {
+            width: 40px;
+            height: 30px;
+            background-position: -480px -510px;
+        }
+        &.flag-icon_country_ws {
+            width: 40px;
+            height: 30px;
+            background-position: -520px -510px;
+        }
+        &.flag-icon_country_xk {
+            width: 40px;
+            height: 30px;
+            background-position: -560px 0px;
+        }
+        &.flag-icon_country_ye {
+            width: 40px;
+            height: 30px;
+            background-position: -560px -30px;
+        }
+        &.flag-icon_country_yt {
+            width: 40px;
+            height: 30px;
+            background-position: -560px -60px;
+        }
+        &.flag-icon_country_za {
+            width: 40px;
+            height: 30px;
+            background-position: -560px -90px;
+        }
+        &.flag-icon_country_zm {
+            width: 40px;
+            height: 30px;
+            background-position: -560px -120px;
+        }
+        &.flag-icon_country_zw {
+            width: 40px;
+            height: 30px;
+            background-position: -560px -150px;
+        }
+    }
+}

@@ -2,12 +2,10 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-const createTasks = require('library-utils/gulp-tasks');
+import '../flag-icon';
+import '../input';
+import '../select';
 
-createTasks('arui-feather', {
-    componentsGlob: [
-        'src/*/*.jsx',
-        '!src/*/*-test.jsx',
-        '!src/*/*-benchmark.jsx'
-    ]
-});
+import './intl-phone-input.css';
+
+export default from './intl-phone-input';
